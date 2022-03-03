@@ -22,11 +22,11 @@ ssh localhost
 ~~~
 Downloading Hadoop
 ~~~
-wget https://dlcdn.apache.org/hadoop/common/hadoop-3.2.2/hadoop-3.2.2.tar.gz
+wget https://dlcdn.apache.org/hadoop/common/hadoop-3.3.1/hadoop-3.3.1.tar.gz
 ~~~
 ~~~
-tar xzf hadoop-3.2.2.tar.gz
-cd hadoop-3.2.2
+tar xzf hadoop-3.3.1.tar.gz
+cd hadoop-3.3.1
 ~~~
 ~~~
 su - your main user  name
@@ -46,7 +46,7 @@ Add below lines in this file
 
 Hadoop Related Options
 ~~~
-export HADOOP_HOME=/home/hdoop/hadoop-3.2.2
+export HADOOP_HOME=/home/hdoop/hadoop-3.3.1
 export HADOOP_INSTALL=$HADOOP_HOME
 export HADOOP_MAPRED_HOME=$HADOOP_HOME
 export HADOOP_COMMON_HOME=$HADOOP_HOME
