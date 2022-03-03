@@ -34,6 +34,9 @@ su - your main user  name
 ~~~
 sudo adduser hdoop sudo
 ~~~
+~~~
+su - hdoop
+~~~
 Add below lines in this file
 ~~~
 sudo nano .bashrc
