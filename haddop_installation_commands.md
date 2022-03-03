@@ -29,6 +29,9 @@ tar xzf hadoop-3.3.1.tar.gz
 cd hadoop-3.3.1
 ~~~
 ~~~
+su - your main user  name
+~~~
+~~~
 sudo adduser hdoop sudo
 ~~~
 Add below lines in this file
