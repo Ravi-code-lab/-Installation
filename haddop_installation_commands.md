@@ -1,19 +1,12 @@
 Auto Installation Online 
-~~~~
 
 
 
 
 
-~~~~
+
+
 Auto Installation Offline
-
-
-
-
-
-
-~~~~
 Manual Installation
 
 ~~~
