@@ -7,6 +7,11 @@ Auto Installation Online
 
 
 Auto Installation Offline
+```
+https://drive.google.com/file/d/1kS4Ni_09fre9dICopzAkPV-IiWuWHpVJ/view?usp=sharing
+```
+
+
 Manual Installation
 
 ~~~
